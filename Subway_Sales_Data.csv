@@ -1,0 +1,51 @@
+Order_ID,Date,Store_ID,City,State,Product_Name,Category,Quantity,Unit_Price,Discount_Amt,Total_Sales,Payment_Method,Order_Channel,Meal_Time,Customer_Type
+ORD0001,01-01-2026,ST001,Rajkot,Gujarat,Paneer Tikka,Veg,2,220,20,420,UPI,Dine-In,Lunch,New
+ORD0002,01-01-2026,ST003,Surat,Gujarat,Veg Patty,Veg,1,180,0,180,Cash,Takeaway,Breakfast,Returning
+ORD0003,01-01-2026,ST002,Ahmedabad,Gujarat,Chicken Tikka,Non-Veg,2,260,30,490,Card,Dine-In,Dinner,New
+ORD0004,02-01-2026,ST005,Mumbai,Maharashtra,Tuna,Non-Veg,1,280,10,270,UPI,Delivery,Evening,Returning
+ORD0005,02-01-2026,ST007,Bengaluru,Karnataka,Cookies,Side,3,50,0,150,Wallet,Takeaway,Evening,New
+ORD0006,03-01-2026,ST006,Pune,Maharashtra,Cold Drink,Side,2,60,0,120,Cash,Dine-In,Lunch,Returning
+ORD0007,03-01-2026,ST001,Rajkot,Gujarat,Aloo Patty,Veg,1,170,0,170,UPI,Takeaway,Breakfast,New
+ORD0008,04-01-2026,ST008,Delhi,Delhi,Chicken Teriyaki,Non-Veg,2,290,20,560,Card,Dine-In,Dinner,Returning
+ORD0009,04-01-2026,ST004,Vadodara,Gujarat,Veggie Delite,Veg,1,190,10,180,UPI,Delivery,Lunch,New
+ORD0010,05-01-2026,ST003,Surat,Gujarat,Chips,Side,2,40,0,80,Cash,Takeaway,Evening,Returning
+ORD0011,05-01-2026,ST002,Ahmedabad,Gujarat,Corn & Cheese,Veg,2,210,15,405,UPI,Dine-In,Lunch,New
+ORD0012,06-01-2026,ST005,Mumbai,Maharashtra,Chicken Seekh,Non-Veg,1,270,10,260,Card,Delivery,Dinner,Returning
+ORD0013,06-01-2026,ST006,Pune,Maharashtra,Paneer Tikka,Veg,3,220,30,630,UPI,Dine-In,Lunch,New
+ORD0014,07-01-2026,ST007,Bengaluru,Karnataka,Veg Patty,Veg,2,180,10,350,Wallet,Takeaway,Breakfast,Returning
+ORD0015,07-01-2026,ST008,Delhi,Delhi,Tuna,Non-Veg,2,280,20,540,Card,Dine-In,Dinner,New
+ORD0016,08-01-2026,ST001,Rajkot,Gujarat,Cookies,Side,4,50,0,200,UPI,Takeaway,Evening,Returning
+ORD0017,08-01-2026,ST003,Surat,Gujarat,Chicken Teriyaki,Non-Veg,1,290,0,290,Cash,Delivery,Dinner,New
+ORD0018,09-01-2026,ST004,Vadodara,Gujarat,Paneer Tikka,Veg,2,220,20,420,UPI,Dine-In,Lunch,Returning
+ORD0019,09-01-2026,ST005,Mumbai,Maharashtra,Cold Drink,Side,3,60,0,180,Card,Takeaway,Evening,New
+ORD0020,10-01-2026,ST006,Pune,Maharashtra,Chicken Tikka,Non-Veg,2,260,20,500,UPI,Dine-In,Lunch,Returning
+ORD0021,10-01-2026,ST007,Bengaluru,Karnataka,Corn & Cheese,Veg,1,210,0,210,Wallet,Takeaway,Breakfast,New
+ORD0022,11-01-2026,ST008,Delhi,Delhi,Aloo Patty,Veg,3,170,20,490,Cash,Dine-In,Lunch,Returning
+ORD0023,11-01-2026,ST001,Rajkot,Gujarat,Tuna,Non-Veg,1,280,10,270,UPI,Delivery,Dinner,New
+ORD0024,12-01-2026,ST002,Ahmedabad,Gujarat,Cookies,Side,5,50,20,230,Card,Takeaway,Evening,Returning
+ORD0025,12-01-2026,ST003,Surat,Gujarat,Veggie Delite,Veg,2,190,10,370,UPI,Dine-In,Lunch,New
+ORD0026,13-01-2026,ST004,Vadodara,Gujarat,Chicken Seekh,Non-Veg,2,270,20,520,Cash,Dine-In,Dinner,Returning
+ORD0027,13-01-2026,ST005,Mumbai,Maharashtra,Paneer Tikka,Veg,3,220,30,630,UPI,Delivery,Lunch,New
+ORD0028,14-01-2026,ST006,Pune,Maharashtra,Chips,Side,4,40,0,160,Wallet,Takeaway,Evening,Returning
+ORD0029,14-01-2026,ST007,Bengaluru,Karnataka,Chicken Tikka,Non-Veg,1,260,10,250,Card,Dine-In,Dinner,New
+ORD0030,15-01-2026,ST008,Delhi,Delhi,Veg Patty,Veg,2,180,10,350,UPI,Dine-In,Breakfast,Returning
+ORD0031,15-01-2026,ST001,Rajkot,Gujarat,Cold Drink,Side,3,60,0,180,Cash,Takeaway,Lunch,New
+ORD0032,16-01-2026,ST002,Ahmedabad,Gujarat,Chicken Teriyaki,Non-Veg,2,290,20,560,Card,Dine-In,Dinner,Returning
+ORD0033,16-01-2026,ST003,Surat,Gujarat,Corn & Cheese,Veg,1,210,0,210,UPI,Delivery,Lunch,New
+ORD0034,17-01-2026,ST004,Vadodara,Gujarat,Cookies,Side,2,50,0,100,Cash,Takeaway,Evening,Returning
+ORD0035,17-01-2026,ST005,Mumbai,Maharashtra,Paneer Tikka,Veg,2,220,20,420,UPI,Dine-In,Lunch,New
+ORD0036,18-01-2026,ST006,Pune,Maharashtra,Chicken Seekh,Non-Veg,3,270,30,780,Card,Dine-In,Dinner,Returning
+ORD0037,18-01-2026,ST007,Bengaluru,Karnataka,Aloo Patty,Veg,2,170,10,330,Wallet,Takeaway,Breakfast,New
+ORD0038,19-01-2026,ST008,Delhi,Delhi,Tuna,Non-Veg,1,280,10,270,UPI,Delivery,Dinner,Returning
+ORD0039,19-01-2026,ST001,Rajkot,Gujarat,Corn & Cheese,Veg,3,210,20,610,Cash,Dine-In,Lunch,New
+ORD0040,20-01-2026,ST002,Ahmedabad,Gujarat,Chips,Side,5,40,0,200,UPI,Takeaway,Evening,Returning
+ORD0041,20-01-2026,ST003,Surat,Gujarat,Chicken Tikka,Non-Veg,2,260,20,500,Card,Dine-In,Dinner,New
+ORD0042,21-01-2026,ST004,Vadodara,Gujarat,Veg Patty,Veg,1,180,0,180,Cash,Takeaway,Breakfast,Returning
+ORD0043,21-01-2026,ST005,Mumbai,Maharashtra,Paneer Tikka,Veg,2,220,10,430,UPI,Dine-In,Lunch,New
+ORD0044,22-01-2026,ST006,Pune,Maharashtra,Chicken Teriyaki,Non-Veg,1,290,10,280,Card,Delivery,Dinner,Returning
+ORD0045,22-01-2026,ST007,Bengaluru,Karnataka,Cookies,Side,6,50,20,280,Wallet,Takeaway,Evening,New
+ORD0046,23-01-2026,ST008,Delhi,Delhi,Veggie Delite,Veg,2,190,10,370,UPI,Dine-In,Lunch,Returning
+ORD0047,23-01-2026,ST001,Rajkot,Gujarat,Chicken Seekh,Non-Veg,2,270,20,520,Cash,Dine-In,Dinner,New
+ORD0048,24-01-2026,ST002,Ahmedabad,Gujarat,Cold Drink,Side,4,60,0,240,UPI,Takeaway,Evening,Returning
+ORD0049,24-01-2026,ST003,Surat,Gujarat,Paneer Tikka,Veg,3,220,30,630,Card,Dine-In,Lunch,New
+ORD0050,25-01-2026,ST005,Mumbai,Maharashtra,Chicken Teriyaki,Non-Veg,2,290,20,560,UPI,Dine-In,Dinner,Returning
